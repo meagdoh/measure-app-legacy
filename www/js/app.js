@@ -14,7 +14,7 @@ angular.module('Measure', ['ionic', 'gettext', 'ngSanitize',
 // .constant('CLIENT_APPLICATION', CLIENT_APPLICATION)
 // .constant('CLIENT_VERSION', CLIENT_VERSION)
 // .constant('ENVIRONMENT_CAPABILITIES', ENVIRONMENT_CAPABILITIES)
-//
+
 .value('MeasureConfig', {
 	'environmentType': undefined,
 	'environmentCapabilities': {},
