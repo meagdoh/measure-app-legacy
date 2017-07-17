@@ -1,5 +1,4 @@
 // Measure.app
-
 angular.module('Measure', ['ionic', 'gettext', 'ngSanitize',
 		'ngCordova', 'highcharts-ng', 'Measure.controllers', 'gaugejs',
 		'Measurement.filters', 'Measure.services', 'Measure.support'],
