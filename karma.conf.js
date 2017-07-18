@@ -17,6 +17,16 @@ module.exports = function(config) {
     files: [
       'node_modules/angular/angular.js',
       'node_modules/angular-mocks/angular-mocks.js',
+      'lib/ionic/js/ionic.bundle.js',
+      "lib/angular-aria/angular-aria.js",
+      "lib/ngCordova/dist/ng-cordova.js",
+      "lib/highcharts/adapters/standalone-framework.src.js",
+      "lib/highcharts/highcharts.js",
+      "lib/highcharts/highcharts-more.src.js",
+      "lib/highcharts-ng/dist/highcharts-ng.js",
+      "lib/sajacy-gauge.js/dist/gauge.min.js",
+      "lib/angular-sanitize/angular-sanitize.min.js",
+      "lib/angular-gettext/dist/angular-gettext.js",
       'www/js/constants.js',
       'www/js/app.js',
       'www/tests/*.js'
